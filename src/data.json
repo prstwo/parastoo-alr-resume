@@ -2,9 +2,14 @@
    
     "navigation": {
         "type": "navigation",
-        "img": "https://image.flaticon.com/icons/svg/1669/1669438.svg"
+        "img": "./images/magic.svg"
 
     },
+    "ArrowIcon":{
+        "ArrowUP": "./images/down.png" ,
+        "ArrowDown": "./images/up.png"
+    }
+    ,
     "title": "Hello, I'm Parastoo",
     "Subtitle": "Content Writer | Amatuere Front-end Developer | Amatuere Web Designer",
     

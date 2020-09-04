@@ -7,11 +7,11 @@ export default class AboutSection extends Component{
  
   changeBG(){
         if( document.getElementById('App').style.backgroundImage === 'url("./images/compute-ea4c57a4.png")'){
-          document.getElementById('App').style.backgroundImage = 'url("https://wallpaperboat.com/wp-content/uploads/2019/12/bright-18.jpg")' 
+          document.getElementById('App').style.backgroundImage = 'url("./images/bg2.jpg")' 
 
         }
-        else if(document.getElementById('App').style.backgroundImage === 'url("https://wallpaperboat.com/wp-content/uploads/2019/12/bright-18.jpg")' ){
-          document.getElementById('App').style.backgroundImage = 'url("https://www.pm4ngos.org/wp-content/uploads/2018/12/585407685-abstract-dark-wallpaper.jpg")';
+        else if(document.getElementById('App').style.backgroundImage === 'url("./images/bg2.jpg")' ){
+          document.getElementById('App').style.backgroundImage = 'url("./images/bg3.jpg")';
 
         }
         else{

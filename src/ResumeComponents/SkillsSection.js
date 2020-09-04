@@ -38,7 +38,7 @@ class SkillsSection extends Component{
               <Link activeClass="active" to="HeaderSection" spy={true} smooth={true} offset={0} duration={500} onSetActive={this.handleSetActive}>
                 <div className="flash-container">
                         <div className="flash">
-                        <img src="https://img.icons8.com/plasticine/2x/up.png" alt="up"/>
+                        <img src={data.ArrowIcon.ArrowUp} alt="up"/>
                         </div>  
             </div>
               </Link>
