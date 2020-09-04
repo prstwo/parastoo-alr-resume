@@ -6,8 +6,8 @@
 
     },
     "ArrowIcon":{
-        "ArrowUP": "./images/down.png" ,
-        "ArrowDown": "./images/up.png"
+        "ArrowUp": "./images/up.png" ,
+        "ArrowDown": "./images/down.png"
     }
     ,
     "title": "Hello, I'm Parastoo",
