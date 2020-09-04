@@ -38,7 +38,7 @@ class HeaderSection extends Component{
           <div className="flash-container">
             <div className="flash">
               <Link activeClass="active" to="AboutSection" spy={true} smooth={true} offset={0} duration={500} onSetActive={this.handleSetActive}>
-               <img src={data.ArrowIcon.ArrowDown} alt="down"/>
+               <img src={data.ArrowIcon.ArrowDown} alt="down" style={{cursor:'pointer'}}/>
               </Link>
             </div>  
           </div>  

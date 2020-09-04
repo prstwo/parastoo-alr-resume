@@ -34,7 +34,7 @@ export default class AboutSection extends Component{
       <div className="flash-container2">
               <div className="flash2">
               <Link activeClass="active" to="SkillsSection" spy={true} smooth={true} offset={0} duration={500} onSetActive={this.handleSetActive}>
-              <img src={data.ArrowIcon.ArrowDown} alt="toSkillsSection"/>
+              <img src={data.ArrowIcon.ArrowDown} alt="toSkillsSection" style={{cursor:'pointer'}}/>
               </Link>
 
               </div>  
