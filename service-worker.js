@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/parastoo-alr-resume/precache-manifest.8887d48cb039d9b5361f7b5e045ad6ec.js"
+  "/parastoo-alr-resume/precache-manifest.9d363e581cba3adb27be56846b718de1.js"
 );
 
 self.addEventListener('message', (event) => {

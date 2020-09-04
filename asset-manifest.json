@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/parastoo-alr-resume/static/css/main.a0605cda.chunk.css",
-    "main.js": "/parastoo-alr-resume/static/js/main.0e5cbbad.chunk.js",
-    "main.js.map": "/parastoo-alr-resume/static/js/main.0e5cbbad.chunk.js.map",
+    "main.js": "/parastoo-alr-resume/static/js/main.55be66bf.chunk.js",
+    "main.js.map": "/parastoo-alr-resume/static/js/main.55be66bf.chunk.js.map",
     "runtime-main.js": "/parastoo-alr-resume/static/js/runtime-main.d8eac3ae.js",
     "runtime-main.js.map": "/parastoo-alr-resume/static/js/runtime-main.d8eac3ae.js.map",
     "static/js/2.e06b3892.chunk.js": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js",
     "static/js/2.e06b3892.chunk.js.map": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js.map",
     "index.html": "/parastoo-alr-resume/index.html",
-    "precache-manifest.8887d48cb039d9b5361f7b5e045ad6ec.js": "/parastoo-alr-resume/precache-manifest.8887d48cb039d9b5361f7b5e045ad6ec.js",
+    "precache-manifest.9d363e581cba3adb27be56846b718de1.js": "/parastoo-alr-resume/precache-manifest.9d363e581cba3adb27be56846b718de1.js",
     "service-worker.js": "/parastoo-alr-resume/service-worker.js",
     "static/css/main.a0605cda.chunk.css.map": "/parastoo-alr-resume/static/css/main.a0605cda.chunk.css.map",
     "static/js/2.e06b3892.chunk.js.LICENSE.txt": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d8eac3ae.js",
     "static/js/2.e06b3892.chunk.js",
     "static/css/main.a0605cda.chunk.css",
-    "static/js/main.0e5cbbad.chunk.js"
+    "static/js/main.55be66bf.chunk.js"
   ]
 }
