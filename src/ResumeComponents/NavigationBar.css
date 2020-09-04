@@ -1,0 +1,36 @@
+.navigation{
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  width: 100%;
+  height: 6vh;
+  background-color: rgb(52, 73, 94);
+  z-index: 1;
+}
+.navigation .navigation-links{
+  width: 80%;
+  text-align: right;
+  margin:10px 0;
+ 
+}
+.navigation .navigation-links span {
+  cursor: pointer;
+font-size: 1.2em;
+  text-align: right;
+  margin:0 10px;
+  color: white;
+}
+.navigation-theme-changer{
+  width: 20%;
+  text-align: left;
+}
+.navigation-theme-changer img{
+  height: 4vh;
+   margin: 1vh 0 1vh 1vw;
+   cursor: pointer;
+   border: solid  rgb(20, 143, 119) 1px ;
+border-radius: 40%;
+  background-color: rgb(20, 143, 119 );
+}

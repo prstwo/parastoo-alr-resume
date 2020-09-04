@@ -1,0 +1,76 @@
+{
+   
+    "navigation": {
+        "type": "navigation",
+        "img": "https://image.flaticon.com/icons/svg/1669/1669438.svg"
+
+    },
+    "title": "Hello, I'm Parastoo",
+    "Subtitle": "Content Writer | Amatuere Front-end Developer | Amatuere Web Designer",
+    
+    "links": {
+        "github": "https://github.com/prstwo",
+        "Linkedin": "https://www.linkedin.com/in/prstwo/"
+    },
+    
+    "sections": [
+        {
+            "title": "About me",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I like programming so recently I've been learning React in order to enter to the new age! "
+                },
+                
+                {
+                    "type": "p",
+                    "content": "Skilled in WordPress, ADSL Technical Support, HTML/CSS , JavaScript. I'm educated with a Bachelor's degree of Information Technology in 2017. "
+                }
+
+            ]
+        },
+        
+        {
+            "title": "skills",
+            "items":[
+                {
+                    "type": "card",
+                    "content":{
+                        "image":"./images/react.png",
+                        "title": "React"
+   
+                    }
+                },
+                {
+                   "type": "card",
+                   "content":{
+                    "image":"./images/js.png",
+                       "title": "JS"
+   
+                   }
+               },{
+                   "type": "card",
+                   "content":{
+                    "image":"./images/html.png",
+                       "title": "HTML"
+   
+                   }
+                   
+               },{
+                "type": "card",
+                "content":{
+                    "image":"./images/css.png",
+                    "title": "CSS"
+
+                }
+            }
+              
+            ]
+   
+           }
+   
+   
+        
+    ] ,
+    "icons": "./images/download.png"
+}

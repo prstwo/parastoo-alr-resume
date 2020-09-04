@@ -1,0 +1,32 @@
+.skills-section{
+  position: relative;
+  padding-top: 20px;
+  top: 30% ;
+  padding: 2%;
+  transition: .5s;
+  -moz-transition: .5s
+  
+}
+.skills-section-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.skills-section-cards section{
+  width: 15%;
+  background-color:rgba(44, 62, 80  , .7);
+  padding: 1%;
+  margin: 1% 1%;
+}
+.image-wrapper img{
+  width:50%;
+}
+@media screen and (max-width:768px){
+  .skills-section-cards section{
+    width: 44%;
+
+  }
+  .image-wrapper img{
+    width:30%;
+  }
+}

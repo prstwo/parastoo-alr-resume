@@ -1,0 +1,13 @@
+.about-section{
+  position: relative;
+  top: 25%;
+  height: 45vh;
+  padding: 5vh;
+  text-align: left;
+  transition: .5s;
+  -o-transition: .5s;
+  -moz-transition: .5s;
+}
+.about-section p {
+  font-size: 20px;
+}
