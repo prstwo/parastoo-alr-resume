@@ -34,3 +34,9 @@ font-size: 1.2em;
 border-radius: 40%;
   background-color: rgb(20, 143, 119 );
 }
+
+@media screen and (max-width:340px){
+  .navigation-links a span {
+    font-size: 0.9em;
+  } 
+}

@@ -23,7 +23,7 @@ class HeaderSection extends Component{
     return(
       <Fullpage>
         <Element name="HeaderSection"></Element>      
-          <div className="div-center header-section" style={{backgroundColor:this.state.backgroundColor}} onMouseOver={this.changeBackground}
+          <div className="header-section" style={{backgroundColor:this.state.backgroundColor}} onMouseOver={this.changeBackground}
               onMouseOut={this.changeBackground}>
             <h1> {data.title}</h1>
             <h2>{data.Subtitle}</h2>

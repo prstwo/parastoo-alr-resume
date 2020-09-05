@@ -2,7 +2,6 @@
   position: relative;
   top: 27.5vh;
   height: 45vh;
-  
   line-height: 10vh;
   padding:5vh;
   transition: 0.5s;
@@ -15,6 +14,18 @@
   font-size: x-small;
   }
 }
-.div-center.header-section div a+a{
+
+.header-section div a+a{
   margin-left: 20px;
  }
+
+ @media screen and (max-width:340px){
+  .header-section{
+    line-height: 6vh;
+    }
+  .header-section h2, .header-section h1{
+  font-size:x-small;
+  }
+
+ 
+}

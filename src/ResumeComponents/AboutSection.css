@@ -1,7 +1,8 @@
 .about-section{
   position: relative;
-  top: 25%;
-  height: 45vh;
+  top: 25vh;
+  height: 30vh;
+  max-height: 40vh;
   padding: 5vh;
   text-align: left;
   transition: .5s;
@@ -9,5 +10,21 @@
   -moz-transition: .5s;
 }
 .about-section p {
-  font-size: 20px;
+  font-size: 16px;
+  line-height: 4vh;
+  overflow: inherit;
+}
+@media screen and (max-width: 769px){
+  .about-section{
+    top: 25%;
+    height: 45vh;
+    padding: 5vh;
+  }
+}
+@media screen and (max-width:340px){
+
+  .about-section p {
+    font-size: x-small;
+  
+}
 }

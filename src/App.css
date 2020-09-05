@@ -6,12 +6,6 @@ html, body{
   box-sizing: border-box;
 
 }
-
-/*body{
-  background-image: url("/public/images/compute-ea4c57a4.png");
-  background-attachment: fixed;
-
-}*/
 .App {
   text-align: center;
   color: white;  
@@ -75,5 +69,10 @@ html, body{
   }
   to {
     transform: rotate(360deg);
+  }
+}
+@media screen and (max-width:340px){
+  .App{
+  font-size:xx-small;
   }
 }
