@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/parastoo-alr-resume/static/css/main.b0a37350.chunk.css",
+    "main.css": "/parastoo-alr-resume/static/css/main.8b058262.chunk.css",
     "main.js": "/parastoo-alr-resume/static/js/main.153eecb5.chunk.js",
     "main.js.map": "/parastoo-alr-resume/static/js/main.153eecb5.chunk.js.map",
     "runtime-main.js": "/parastoo-alr-resume/static/js/runtime-main.d8eac3ae.js",
@@ -8,15 +8,15 @@
     "static/js/2.e06b3892.chunk.js": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js",
     "static/js/2.e06b3892.chunk.js.map": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js.map",
     "index.html": "/parastoo-alr-resume/index.html",
-    "precache-manifest.aff6505024ca5b0ab084adae75f6996f.js": "/parastoo-alr-resume/precache-manifest.aff6505024ca5b0ab084adae75f6996f.js",
+    "precache-manifest.49f783056020adc703a4d839d7d7c889.js": "/parastoo-alr-resume/precache-manifest.49f783056020adc703a4d839d7d7c889.js",
     "service-worker.js": "/parastoo-alr-resume/service-worker.js",
-    "static/css/main.b0a37350.chunk.css.map": "/parastoo-alr-resume/static/css/main.b0a37350.chunk.css.map",
+    "static/css/main.8b058262.chunk.css.map": "/parastoo-alr-resume/static/css/main.8b058262.chunk.css.map",
     "static/js/2.e06b3892.chunk.js.LICENSE.txt": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8eac3ae.js",
     "static/js/2.e06b3892.chunk.js",
-    "static/css/main.b0a37350.chunk.css",
+    "static/css/main.8b058262.chunk.css",
     "static/js/main.153eecb5.chunk.js"
   ]
 }
