@@ -71,6 +71,15 @@ html, body{
     transform: rotate(360deg);
   }
 }
+@media screen and (max-width:769px){
+  .flash-container, .flash-container2{
+    width: 9vw;
+  }
+  
+  .flash img, .flash2 img{
+    width: 9vw;
+  }
+}
 @media screen and (max-width:340px){
   .App{
   font-size:xx-small;
