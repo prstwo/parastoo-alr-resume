@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ddcd4c13ef9d94044f390e99525e60c",
+    "revision": "a1408ba2d00487e278c1c092938018c0",
     "url": "/parastoo-alr-resume/index.html"
   },
   {
-    "revision": "f14b308d6dcdab8aa0e0",
-    "url": "/parastoo-alr-resume/static/css/main.a0605cda.chunk.css"
+    "revision": "7035d558038490685d9c",
+    "url": "/parastoo-alr-resume/static/css/main.b0a37350.chunk.css"
   },
   {
     "revision": "cfc587d7417bdca3d37d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parastoo-alr-resume/static/js/2.e06b3892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f14b308d6dcdab8aa0e0",
-    "url": "/parastoo-alr-resume/static/js/main.55be66bf.chunk.js"
+    "revision": "7035d558038490685d9c",
+    "url": "/parastoo-alr-resume/static/js/main.153eecb5.chunk.js"
   },
   {
     "revision": "8a48a34bea8462ea6223",
